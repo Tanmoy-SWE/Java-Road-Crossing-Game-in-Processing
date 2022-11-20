@@ -1,7 +1,3 @@
-//Shakira thasin prome, 46811737
-//[x] I declare that I have not seen anyone else's code
-//[x] I declare that I haven't shown my code to anyone else.
-
 
 //The below 4 variable controls the game settings and difficulity
 int lives = 3;
